@@ -1,5 +1,4 @@
-# 0
-### Assignment
+# [Assignment 0](https://github.com/ArtG2260SpringTuesday2016/Assignment0)
  - [ ] Fill out github profile
  - [ ] Fill out your slack profile
  - [ ] Display something using `createCanvas()`
@@ -12,8 +11,7 @@
  - [ ] Assignment is interactive in some way
  - [ ] Utilizes conditionals (`if`)
  
-# 1
-### Assignment
+# [Assignment 1](https://github.com/ArtG2260SpringTuesday2016/Assignment1)
  - [ ] Thing 1
 
 ### In class
