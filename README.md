@@ -22,16 +22,21 @@
 ### Bonus
  - [ ] Loop is inside a function you define
 
-# 2
-### Assignment
- - [ ] Thing 1
-
+# [Assignment 2](https://github.com/ArtG2260SpringTuesday2016/class2)
+ - [ ] A sketch that as several objects created from a single function as a PR to https://github.com/ArtG2260SpringTuesday2016/class2
+ - [ ] In a folder called class2 in your private repository make a P5 sketch that:
+   - [ ] Create an object that describes you as an object `var you = {};` or `var you = function() {};`
+   - [ ] Create another object that describes your favorite food. use `var foodName = {}` where `foodName` is the name of the food
+   - [ ] Assign your favorite food to be a property of that object that describes you
+   - [ ] Print out an attribute from your object using either `console.log` or P5's `text()` function.
+   - [ ] Create an array and then use a loop to print out or modify every value
+   - [ ] Write in a readme file (in that class2 folder) the things you had trouble with
 
 ### In class
- - [ ] Thing 1
+ - [x] Nothing was due
 
 ### Bonus
-- [ ] Thing 1
+- [ ] Make a github.io page. Include a link to it in your private repository readme at the top level. This a stage for free website hosting. https://github.com/ArtG2260SpringTuesday2016/class2#bonus-points
 
 # 3
 ### Assignment
