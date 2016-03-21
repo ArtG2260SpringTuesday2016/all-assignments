@@ -12,13 +12,15 @@
  - [ ] Utilizes conditionals (`if`)
  
 # [Assignment 1](https://github.com/ArtG2260SpringTuesday2016/Assignment1)
- - [ ] Thing 1
+ - [ ] Refactor [assignment 0](https://github.com/ArtG2260SpringTuesday2016/Assignment0) to use variables, functions and loops where appropriate
+ - [ ] Make another program, PR to https://github.com/ArtG2260SpringTuesday2016/Assignment1 that uses a loop to make a grid of objects
+ - [ ] Flapjacks in your private repo
 
 ### In class
- - [ ] Thing 1
+ - [x] Nothing was required
 
 ### Bonus
- - [ ] Thing 1
+ - [ ] Loop is inside a function you define
 
 # 2
 ### Assignment
