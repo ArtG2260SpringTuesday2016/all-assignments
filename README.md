@@ -1,4 +1,4 @@
-# 1
+# 0
 ### Assignment
  - [ ] Fill out github profile
  - [ ] Fill out your slack profile
@@ -12,7 +12,7 @@
  - [ ] Assignment is interactive in some way
  - [ ] Utilizes conditionals (`if`)
  
-# 2
+# 1
 ### Assignment
  - [ ] Thing 1
 
@@ -22,7 +22,7 @@
 ### Bonus
  - [ ] Thing 1
 
-# 3
+# 2
 ### Assignment
  - [ ] Thing 1
 
@@ -32,6 +32,17 @@
 
 ### Bonus
 - [ ] Thing 1
+
+# 3
+### Assignment
+ - [ ] Thing 1
+
+### In class
+ - [ ] Thing 1
+
+### Bonus
+- [ ] Thing 1
+
 
 # 4
 ### Assignment
