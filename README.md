@@ -40,24 +40,41 @@
 
 # 3
 ### Assignment
- - [ ] Thing 1
+ - [ ] Work on your game, show evidence of progress
 
 ### In class
- - [ ] Thing 1
+ - [x] Nothing Due
 
 ### Bonus
-- [ ] Thing 1
+- [x] None
 
 
 # 4
 ### Assignment
- - [ ] Thing 1
+ - [ ] Complete 10 of the following in a folder in your private repo
+   - [ ] A function that adds two numbers
+   - [ ] A function that divides two numbers
+   - [ ] A function that adds an array of numbers
+   - [ ] A function that multiplies an array of numbers
+   - [ ] A function that takes three numbers and tells if the middle number is between the other two.
+   - [ ] A function that calculates the factorial of a number- A function that calculates the length of a string
+   - [ ] A function that calculates the length of a string without spaces
+   - [ ] A function that puts out heads or tails
+   - [ ] A function that returns the largest number in an array
+   - [ ] A function that returns the smallest number in an array
+   - [ ] A function that takes in a String (name) and outputs "Hello ${name}" where "#{name}" is the inputted name.
+   - [ ] A function that can tell you if it's a leap year (actually a bit of work)
+   - [ ] A function that takes in an array and returns only the first half
+   - [ ] A function that takes in an array and returns every other value in a new array
+   - [ ] A function that takes in an array and returns an array where every value is twice what it originally was
+   - [ ] A function that outputs a value from the object you previously made about yourself or favorite food
+   - [ ] The write the difference between console.log and return
 
 ### In class
- - [ ] Thing 1
+ - [ ] Nothing due
 
 ### Bonus
-- [ ] Thing 1
+- [ ] Did more than 10
 
 # 5
 ### Assignment
