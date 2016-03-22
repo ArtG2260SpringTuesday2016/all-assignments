@@ -107,8 +107,7 @@ All assignments allow the opportunity for recouped or bonus points by refactorin
 ### Bonus
 - [x] None
 
-# 7
-### Assignment
+# Assignment 7/8
  - [ ] Keep working on your infographic
 
 ### In class
@@ -123,6 +122,6 @@ Enjoy it.
 # [Assignment 9](https://github.com/ArtG2260SpringTuesday2016/class9)
  - [ ] Something that is interactive based on input, whether that be mouse or keyboard using a class (constructor function & new key word).
 
-# [Assignment 10]
+# Assignment 10
 ## Bonus
  - [ ] Message Francisco on slack you read this within the 2 hours of this being sent out.
