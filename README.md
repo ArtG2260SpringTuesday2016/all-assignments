@@ -107,7 +107,7 @@ All assignments allow the opportunity for recouped or bonus points by refactorin
 ### Bonus
 - [x] None
 
-# Assignment 7/8
+# Assignment 7
  - [ ] Keep working on your infographic
 
 ### In class
@@ -116,7 +116,7 @@ All assignments allow the opportunity for recouped or bonus points by refactorin
 ### Bonus
 - [ ] None
 
-# Assignment Spring Break
+# Assignment 8 Spring Break
 Enjoy it.
 
 # [Assignment 9](https://github.com/ArtG2260SpringTuesday2016/class9)
