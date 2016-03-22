@@ -76,7 +76,7 @@ All assignments allow the opportunity for recouped or bonus points by refactorin
 ### Bonus
 - [ ] Did more than 10
 
-# 5 [Assignment](https://github.com/ArtG2260SpringTuesday2016/class5)
+# [Assignment 5](https://github.com/ArtG2260SpringTuesday2016/class5)
 *Note, this assignment is being reevaluated.*
 
  - [ ] Pull request to https://github.com/ArtG2260SpringTuesday2016/class5
