@@ -36,21 +36,21 @@ All assignments allow the opportunity for recouped or bonus points by refactorin
    - [ ] Write in a readme file (in that class2 folder) the things you had trouble with
 
 ### In class
- - [x] Nothing was due
+ - [x] Nothing was required
 
 ### Bonus
 - [ ] Make a github.io page. Include a link to it in your private repository readme at the top level. This a stage for free website hosting. https://github.com/ArtG2260SpringTuesday2016/class2#bonus-points
 
-# 3 Assignment
+# Assignment 3
  - [ ] Work on your game, show evidence of progress
 
 ### In class
- - [x] Nothing Due
+ - [x] Nothing was required
 
 ### Bonus
 - [x] None
 
-# 4 Assignment sent out via email
+# Assignment 4 sent out via email
  - [ ] Complete 10 of the following in a folder in your private repo
    - [ ] A function that adds two numbers
    - [ ] A function that divides two numbers
@@ -71,7 +71,7 @@ All assignments allow the opportunity for recouped or bonus points by refactorin
    - [ ] The write the difference between console.log and return
 
 ### In class
- - [ ] Nothing due
+ - [ ] Nothing was required
 
 ### Bonus
 - [ ] Did more than 10
@@ -86,113 +86,43 @@ All assignments allow the opportunity for recouped or bonus points by refactorin
  - [ ] Your infographic should look interesting but does not need to make sense
 
 ### In class
- - [ ] Thing 1
+ - [ ] Nothing was required
 
 ### Bonus
 - [ ] Your infographic answers a specific hypothesis eg. Does bacon ipsum use shorter words at the begginning?
 - [ ] Your data is multi dimensional, eg distance & number of photos over time is 3 dimensions
 - [ ] You created the data you're visualizing (finding a paragraph and figuring out the properties)
 
-# 6
-### Assignment
- - [ ] Thing 1
+# Assignment 6
+ - [ ] Message Francisco **on slack** your data set https://artg2260st2016.slack.com
+ - [ ] Message Francisco **on slack** your question/hypothesis * be prepared to speak about it
+ - [ ] Draft of your infographic in a cnosumable format
+   - [ ] Figured out how to visualize it in some way
+   - [ ] Plan for what to do next
+   - [ ] PR to https://github.com/ArtG2260SpringTuesday2016/Infographic-Round2
 
 ### In class
- - [ ] Thing 1
+ - [ ] PR to https://github.com/ArtG2260SpringTuesday2016/class6/
 
 ### Bonus
-- [ ] Thing 1
+- [x] None
 
 # 7
 ### Assignment
- - [ ] Thing 1
+ - [ ] Keep working on your infographic
 
 ### In class
- - [ ] Thing 1
+ - [ ] look ahead PR to https://github.com/ArtG2260SpringTuesday2016/Class7
 
 ### Bonus
-- [ ] Thing 1
+- [ ] None
 
-# 8
-### Assignment
- - [ ] Thing 1
+# Assignment Spring Break
+Enjoy it.
 
-### In class
- - [ ] Thing 1
+# [Assignment 9](https://github.com/ArtG2260SpringTuesday2016/class9)
+ - [ ] Something that is interactive based on input, whether that be mouse or keyboard using a class (constructor function & new key word).
 
-### Bonus
-- [ ] Thing 1
-
-# 9
-### Assignment
- - [ ] Thing 1
-
-### In class
- - [ ] Thing 1
-
-### Bonus
-- [ ] Thing 1
-
-# 10
-### Assignment
- - [ ] Thing 1
-
-### In class
- - [ ] Thing 1
-
-### Bonus
-- [ ] Thing 1
-
-
-# 11
-### Assignment
- - [ ] Thing 1
-
-### In class
- - [ ] Thing 1
-
-### Bonus
-- [ ] Thing 1
-
-
-# 12
-### Assignment
- - [ ] Thing 1
-
-### In class
- - [ ] Thing 1
-
-### Bonus
-- [ ] Thing 1
-
-
-# 13
-### Assignment
- - [ ] Thing 1
-
-### In class
- - [ ] Thing 1
-
-### Bonus
-- [ ] Thing 1
-
-
-# 14
-### Assignment
- - [ ] Thing 1
-
-### In class
- - [ ] Thing 1
-
-### Bonus
-- [ ] Thing 1
-
-# 15
-### Assignment
- - [ ] Thing 1
-
-### In class
- - [ ] Thing 1
-
-### Bonus
-- [ ] Thing 1
+# [Assignment 10]
+## Bonus
+ - [ ] Message Francisco on slack you read this within the 2 hours of this being sent out.
