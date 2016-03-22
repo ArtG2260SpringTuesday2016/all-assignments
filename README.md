@@ -1,3 +1,5 @@
+All assignments allow the opportunity for recouped or bonus points by refactoring and acting on comments from @frandias
+
 # [Assignment 0](https://github.com/ArtG2260SpringTuesday2016/Assignment0)
  - [ ] Fill out github profile
  - [ ] Fill out your slack profile
@@ -23,6 +25,7 @@
  - [ ] Loop is inside a function you define
 
 # [Assignment 2](https://github.com/ArtG2260SpringTuesday2016/class2)
+*Note, this assignment is being reevaluated.*
  - [ ] A sketch that as several objects created from a single function as a PR to https://github.com/ArtG2260SpringTuesday2016/class2
  - [ ] In a folder called class2 in your private repository make a P5 sketch that:
    - [ ] Create an object that describes you as an object `var you = {};` or `var you = function() {};`
@@ -73,15 +76,22 @@
 ### Bonus
 - [ ] Did more than 10
 
-# 5
-### Assignment
- - [ ] Thing 1
+# 5 [Assignment](https://github.com/ArtG2260SpringTuesday2016/class5)
+*Note, this assignment is being reevaluated.*
+
+ - [ ] Pull request to https://github.com/ArtG2260SpringTuesday2016/class5
+ - [ ] Some kind of loop or map to programmatically generate a graphic
+ - [ ] You must utilize a helper function that you make
+ - [ ] The bulk of the graphic should not be 1 off code (don't repeat the same function with slightly different paramaters)
+ - [ ] Your infographic should look interesting but does not need to make sense
 
 ### In class
  - [ ] Thing 1
 
 ### Bonus
-- [ ] Thing 1
+- [ ] Your infographic answers a specific hypothesis eg. Does bacon ipsum use shorter words at the begginning?
+- [ ] Your data is multi dimensional, eg distance & number of photos over time is 3 dimensions
+- [ ] You created the data you're visualizing (finding a paragraph and figuring out the properties)
 
 # 6
 ### Assignment
