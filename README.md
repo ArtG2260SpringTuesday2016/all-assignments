@@ -123,5 +123,5 @@ Enjoy it.
  - [ ] Something that is interactive based on input, whether that be mouse or keyboard using a class (constructor function & new key word).
 
 # Assignment 10
-## Bonus
+### Bonus
  - [ ] Message Francisco on slack you read this within the 2 hours of this being sent out.
