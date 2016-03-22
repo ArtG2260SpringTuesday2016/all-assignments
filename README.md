@@ -38,8 +38,7 @@
 ### Bonus
 - [ ] Make a github.io page. Include a link to it in your private repository readme at the top level. This a stage for free website hosting. https://github.com/ArtG2260SpringTuesday2016/class2#bonus-points
 
-# 3
-### Assignment
+# 3 Assignment
  - [ ] Work on your game, show evidence of progress
 
 ### In class
@@ -48,9 +47,7 @@
 ### Bonus
 - [x] None
 
-
-# 4
-### Assignment
+# 4 Assignment sent out via email
  - [ ] Complete 10 of the following in a folder in your private repo
    - [ ] A function that adds two numbers
    - [ ] A function that divides two numbers
