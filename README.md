@@ -52,23 +52,23 @@ All assignments allow the opportunity for recouped or bonus points by refactorin
 
 # Assignment 4 sent out via email
  - [ ] Complete 10 of the following in a folder in your private repo
-   - [ ] A function that adds two numbers
-   - [ ] A function that divides two numbers
-   - [ ] A function that adds an array of numbers
-   - [ ] A function that multiplies an array of numbers
-   - [ ] A function that takes three numbers and tells if the middle number is between the other two.
-   - [ ] A function that calculates the factorial of a number- A function that calculates the length of a string
-   - [ ] A function that calculates the length of a string without spaces
-   - [ ] A function that puts out heads or tails
-   - [ ] A function that returns the largest number in an array
-   - [ ] A function that returns the smallest number in an array
-   - [ ] A function that takes in a String (name) and outputs "Hello ${name}" where "#{name}" is the inputted name.
-   - [ ] A function that can tell you if it's a leap year (actually a bit of work)
-   - [ ] A function that takes in an array and returns only the first half
-   - [ ] A function that takes in an array and returns every other value in a new array
-   - [ ] A function that takes in an array and returns an array where every value is twice what it originally was
-   - [ ] A function that outputs a value from the object you previously made about yourself or favorite food
-   - [ ] The write the difference between console.log and return
+   - [ ] [A function that adds two numbers](https://github.com/ArtG2260SpringTuesday2016/Alexis-Diefenbach/blob/master/sketch.js/sketch.js#L9)
+   - [ ] [A function that divides two numbers]()
+   - [ ] [A function that adds an array of numbers]()
+   - [ ] [A function that multiplies an array of numbers]()
+   - [ ] [A function that takes three numbers and tells if the middle number is between the other two.]()
+   - [ ] [A function that calculates the factorial of a number- A function that calculates the length of a string.]()
+   - [ ] [A function that calculates the length of a string without spaces]()
+   - [ ] [A function that puts out heads or tails]()
+   - [ ] [A function that returns the largest number in an array]()
+   - [ ] [A function that returns the smallest number in an array]()
+   - [ ] [A function that takes in a String (name) and outputs "Hello ${name}" where "#{name}" is the inputted name.]()
+   - [ ] [A function that can tell you if it's a leap year (actually a bit of work)]()
+   - [ ] [A function that takes in an array and returns only the first half]()
+   - [ ] [A function that takes in an array and returns every other value in a new array]()
+   - [ ] [A function that takes in an array and returns an array where every value is twice what it originally was]()
+   - [ ] [A function that outputs a value from the object you previously made about yourself or favorite food]()
+   - [ ] [The write the difference between console.log and return]()
 
 ### In class
  - [ ] Nothing was required
@@ -124,5 +124,7 @@ Enjoy it.
  - [ ] Something that is interactive based on input, whether that be mouse or keyboard using a class (constructor function & new key word).
 
 # Assignment 10
-### Bonus
- - [ ] Message Francisco on slack you read this within the 2 hours of this being sent out.
+- [ ] Make every object (rectangle and circle) respond to mouse input
+ - [ ] use https://github.com/bmoren/p5.collide2D
+- [ ] PR to https://github.com/ArtG2260SpringTuesday2016/class10
+
