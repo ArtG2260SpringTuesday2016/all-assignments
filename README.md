@@ -82,18 +82,19 @@ All assignments allow the opportunity for recouped or bonus points by refactorin
  - [ ] Pull request to https://github.com/ArtG2260SpringTuesday2016/class5
  - [ ] Some kind of loop or map to programmatically generate a graphic
  - [ ] You must utilize a helper function that you make
- - [ ] The bulk of the graphic should not be 1 off code (don't repeat the same function with slightly different paramaters)
+ - [ ] The bulk of the graphic should not be 1 off code (don't repeat the same function with slightly different parameters)
  - [ ] Your infographic should look interesting but does not need to make sense
 
 ### In class
  - [ ] Nothing was required
 
 ### Bonus
-- [ ] Your infographic answers a specific hypothesis eg. Does bacon ipsum use shorter words at the begginning?
+- [ ] Your infographic answers a specific hypothesis eg. Does bacon ipsum use shorter words at the beginning?
 - [ ] Your data is multi dimensional, eg distance & number of photos over time is 3 dimensions
 - [ ] You created the data you're visualizing (finding a paragraph and figuring out the properties)
 
 # Assignment 6
+ - [ ] refactor assignment 5
  - [ ] Message Francisco **on slack** your data set https://artg2260st2016.slack.com
  - [ ] Message Francisco **on slack** your question/hypothesis * be prepared to speak about it
  - [ ] Draft of your infographic in a cnosumable format
